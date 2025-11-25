@@ -1,7 +1,7 @@
 # Ex01 Portfolio
 ## Date:29/8/25
-## Name - Sanjeev D
-## REG NO - 212223040185
+## Name - VEMBARASAN P
+## REG NO - 212223220123
 
 ## AIM
 To create a Portfolio using HTML and CSS.
